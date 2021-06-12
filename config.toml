@@ -4,7 +4,9 @@ title = "Hugo Grayscale Theme"
 theme = "hugograyscale"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
-
+######################## default configuration ####################
+theme = "gosaas-hugo"
+publishDir = "public"
 [params]
     # Provide some metadata for search and indexing services
     description = "A port of the Grayscale theme to Hugo"
