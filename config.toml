@@ -1,4 +1,4 @@
-baseURL = "http://feynman-solutions.com/"
+baseURL = "https://about.feynman-solutions.com/"
 languageCode = "en-us"
 title = "Hugo Grayscale Theme"
 theme = "hugograyscale"
