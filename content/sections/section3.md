@@ -4,8 +4,8 @@ weight: 4
 ---
 
 {{< socialhandles >}}
-    {{< twitter user="stream_running" >}}
-    {{< github user="runningstream" >}}
+    {{< twitter user="feynmansol" >}}
+    {{< github user="feynmansol" >}}
 {{< /socialhandles >}}
 
 ## Contact Us
