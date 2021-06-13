@@ -3,7 +3,7 @@ title: "About"
 weight: 2
 ---
 
-## What we do
+## What We Do
 
 Your business is our business. We believe in making your dreams and goals a reality and our experts know just how to do that by harnessing the power of quantum computing. We're prepared to help you at any level, from impartial advice or practical assistance to help you make the most of every scientific discovery and product development opportunity. 
 
