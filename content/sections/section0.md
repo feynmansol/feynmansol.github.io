@@ -4,6 +4,6 @@ weight: 1
 improvecontrast: true
 ---
 
-# Grayscale
+# Feynman Solutions
 
-A free, responsive, one page Hugo/Bootstrap theme originally created by Start Bootstrap. test 1234
+Deliver best-in-class quantum computing solutions to clients in the quantum chemistry and pharmaceutical industries.

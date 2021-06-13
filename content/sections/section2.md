@@ -1,11 +1,9 @@
 ---
-title: "Links"
+title: "Team"
 weight: 3
 improvecontrast: true
 ---
 
-## Download Grayscale
+## Who we are
 
-You can download Grayscale for free from the Github page.test test test 1234
-
-{{< big-button text="Visit Download Page" href="https://github.com/runningstream/hugograyscale/" >}}
+We're a group of scientists, software engineers, machine learning experts and strategists that thrive on sharing our experience and knowledge to help you make a success of your business. Our track record of business success and technology achievement proves that clear communication and expert collaboration will help you achieve your business goals. New product research and development is our specialty.

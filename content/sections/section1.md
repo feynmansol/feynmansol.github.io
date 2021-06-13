@@ -3,10 +3,8 @@ title: "About"
 weight: 2
 ---
 
-## About Grayscale
+## What we do
 
-Grayscale is a free Hugo theme, originally created for Bootstrap by Start Bootstrap. It can be yours right now, simply download the template from [the Github page](https://github.com/runningstream/hugograyscale/). The theme is open source, and you can use it for any purpose, personal or commercial.
+Your business is our business. We believe in making your dreams and goals a reality and our experts know just how to do that by harnessing the power of quantum computing. We're prepared to help you at any level, from impartial advice or practical assistance to help you make the most of every scientific discovery and product development opportunity. 
 
-This theme was adapted from a Jekyll version, brought to you by [Jerome Lachaud](https://github.com/jeromelachaud)
-
-This theme features stock photos by [Gratisography](http://gratisography.com/) along with a custom Google Maps skin courtesy of [Snazzy Maps](http://snazzymaps.com/).
+Whether you're just starting out on your quantum computing journey or looking to restructure we've got you covered. Our mantra is: analyze, identify, advise, execute. Our mission is to create competitive advantage by leveraging our deep technical expertise to create highly innovative products more efficiently, and through forging lasting client relationships. Our promise is that we'll be there, as questions or issues in your business arise, every step of the way. 
