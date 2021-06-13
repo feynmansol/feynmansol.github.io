@@ -6,7 +6,7 @@ improvecontrast: true
 
 ## Who We Are
 
-We're a group of scientists, software engineers, machine learning experts and solutions architects that thrive on sharing our experience and knowledge to help you make a success of your business. Our track record of business success and technology achievement proves that clear communication and expert collaboration will help you achieve your business goals. New product research and development, leveraging the power of quantum computing, is our specialty. With many years of research and industry experience, we share our passion and knowledge through helping others achieve their goals. Talk to us today about how we can support your growth, increase your revenue, and put you on a solid track to success and profit.
+We're a group of scientists, software engineers, machine learning experts and solutions architects that thrive on sharing our experience and knowledge to help you make a success of your business. Our track record of business success and technology achievement proves that clear communication and expert collaboration will help you achieve your business goals. New product research and development, leveraging the power of quantum computing, is our specialty. With many years of research and industry experience, we share our passion and knowledge through helping others achieve their goals. Talk to us today about how we can surface new products quickly, support your growth, increase your revenue, and put you on a solid track to success and profit.
 
 ## Our Approach
 
