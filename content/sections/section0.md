@@ -6,4 +6,4 @@ improvecontrast: true
 
 # Grayscale
 
-A free, responsive, one page Hugo/Bootstrap theme originally created by Start Bootstrap.
+A free, responsive, one page Hugo/Bootstrap theme originally created by Start Bootstrap. test 1234
