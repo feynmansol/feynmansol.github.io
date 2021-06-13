@@ -14,4 +14,4 @@ Our service includes collaborative consulting to help identify product opportuni
 
 ## Why Us?
 
-Business mentors are key—that’s why when it comes to client selection, we’re choosy. We want to give each and every one of our clients the time and guidance they deserve.  Whether you’re seeking a strategic alliance with the right partner or a special skillset or tool, contact us today. Together we’ll create and refine your product roadmap for success. We didn’t get there alone. And neither will you. 
+Business mentors are key — that’s why when it comes to client selection, we’re choosy. We want to give each and every one of our clients the time and support they deserve.  Whether you’re seeking a strategic alliance with the right partner or a special skillset or toolchain, contact us today. Together we’ll create and refine your product roadmap for success. We didn’t get there alone. And neither will you. 
