@@ -6,4 +6,4 @@ improvecontrast: true
 
 # Feynman Solutions
 
-we deliver best-in-class quantum computing solutions to clients in the quantum chemistry and pharmaceutical industries.
+We deliver best-in-class quantum computing solutions to clients in the quantum chemistry and pharmaceutical industries.
