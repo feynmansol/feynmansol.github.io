@@ -2,6 +2,7 @@
 title: "About"
 weight: 2
 ---
+“Nature isn’t classical, dammit, and if you want to make a simulation of nature, you’d better make it quantum mechanical. And by golly it’s a wonderful problem, because it doesn’t look so easy” - Richard Feynman 1981.
 
 ## What We Do
 
