@@ -3,4 +3,4 @@ Feynman Solutions is a quantum computing and algorithms company whose sole purpo
 to bring these solutions to market as quickly as possible.
 
 Website: www.feynman-solutions.com  
-Twitter: @feynmansol
+Twitter: https://twitter.com/feynmansol @feynmansol
