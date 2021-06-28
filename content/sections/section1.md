@@ -7,6 +7,10 @@ weight: 2
 
 
 
+
+
+
+
 ## What We Do
 
 Your business is our business. We believe in making your goals a reality and our experts know just how to do that by harnessing the power of quantum computing. We're prepared to help you at all layers of the quantum computing stack - from algorithms to frameworks to hardware - in order for you to enable scientific discovery and expedite product development. 
