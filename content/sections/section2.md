@@ -21,4 +21,4 @@ Get in touch with us now at info@feynman-solutions.com
 
 
 
-##### Feynman Solutions - experts in quantum algorithms
+##### Feynman Solutions - experts in quantum simulations
