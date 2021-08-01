@@ -15,7 +15,7 @@ Our service includes collaborative consulting to help identify product opportuni
 ## Why Us?
 
 Are you running condensed matter or chemistry simulations on classical HPC now?
-Would you like to try running these simulations on quantum computing platforms?
+Would you like to try running these simulations on quantum computing platforms?  
 Our platform vendors include Google, IBMQ, IonQ, AQT and Xanadu. Available directly via the vendors or through GCP, AWS Braket & Azure Quantum.
 Get in touch with us now at info@feynman-solutions.com
 
